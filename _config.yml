@@ -1,4 +1,3 @@
-layout_spectrum: 0.7852935784030706
 typography_spectrum: 0.5717403206508607
 color:
   brandStrength: 0.5362088815309107
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.7852935784030706
 name: AI
 title: AI for the next decade
+description: Smarter at work
